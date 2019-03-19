@@ -15,6 +15,8 @@ npm start
 ![Alt text](chat_demo.png "Full Image")
 
 
+### Architecture Diagram
+![Alt text](Architecture_diagram.png "Full Image")
 
 
 
