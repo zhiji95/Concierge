@@ -3,13 +3,18 @@
 >Please go to [this link](http://concierge-bot.s3-website-us-east-1.amazonaws.com/) to test the application
 
 
-
 ### Test locally:
 
 ```
 npm install
 npm start
 ```
+
+
+### Demo
+![Alt text](chat_demo.png "Full Image")
+
+
 
 
 
